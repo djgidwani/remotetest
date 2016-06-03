@@ -1,0 +1,17 @@
+ajaxtut/*
+app2/*
+db_repository2/*
+flask/*
+PythonFlaskjQueryAjax-master/*
+restt/*
+search.db/*
+tmp/*
+todo-api/*
+app2.db
+*.pyc
+config2.py
+db_create2.py
+db_downgrade2.py
+db_upgrade2.py
+run2.py
+runp.py
